@@ -1,5 +1,5 @@
 .banner {
-    background-image: url(https://wallpaperaccess.com/full/2703652.png);
+   
     background-size: cover;
     height: 448px;
     color: white;
@@ -49,7 +49,8 @@
     padding-top: 1rem;
     font-size: 1rem;
     height: 80px;
-    max-width: 360px;
+    max-width: 380px;
+    font-weight: 400;
 }
 .fade_bottom{
     height: 7.4rem;
